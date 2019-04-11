@@ -1,0 +1,65 @@
+.bodytext {  text-decoration: none;
+    color: #666666;
+    font-family: "Tahoma";
+    font-size: 11px;
+    font-weight: medium; }
+.sectiontitle {  text-decoration: none;
+    color: #888888;
+    font-family: "Tahoma";
+    font-size: 13px;
+    font-weight: bold; }
+.largetitle {  text-decoration: none;
+    color: #000000;
+    font-family: "Tahoma";
+    font-size: 13px;
+    font-weight: bold; }
+a:link {  text-decoration: none;
+    color: #ffffff;
+    font-family: "Tahoma";
+    font-size: 11px;
+    font-weight: heavy; }
+.hideunderline  {  text-decoration: none;
+    color: #ffffff;
+    font-family: "Tahoma";
+    font-size: 11px;
+    font-weight: heavy; }
+
+.title {  text-decoration: bold;
+    color: green;
+    font-family: "Tahoma";
+    font-size: 11px;
+    font-weight: heavy; }
+.bold {  text-decoration: bold;
+    color: #999999;
+    font-family: "Tahoma";
+    font-size: 29px;
+    font-weight: heavy; }
+.head  {  color: #000000;
+    font-family: "Tahoma";
+    font-size: 11px;
+    margin-top: 35px;
+    margin-left: 28px; }
+.date      {  text-decoration: underline;
+    color: #999999;
+    font-family: "Tahoma";
+    font-size: 11px;
+    font-weight: heavy; }
+
+
+a:hover { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #990000; text-decoration: underline}
+a:link { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000066; text-decoration: none}
+a:visited { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #31654A; text-decoration: none}
+
+div.app-icon {
+    width:190px;
+    display:inline;
+    float: left;
+    margin: 3px 12px;
+}
+div.app-icon.first {
+    margin-left: 0;
+}
+img.soms-app-icon {
+    border:2px solid rgba(0, 102, 203, 1);
+    /*margin:10px 0;*/
+}
